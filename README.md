@@ -2,7 +2,7 @@
   <img src="assets/gif.gif">
 </p>
 
-# Hi there ! 😃
+# Hi there ! 👋
 
 ## Me 👶
 
@@ -14,11 +14,11 @@
  - Coding in Python, Golang, Rust
 
 ## My hobbies 💕
- - Coding
+ - Coding (VS Code)
  - `h4ck1ng 😈🔫`
  - Doing electronic
 
-## Socials 📩
+## Contact  📩
 |Platform| Contact  |
 |--|--|
 | Twitter | [@toastakerman](https://twitter.com/toastakerman)
@@ -27,5 +27,5 @@
 | Discord | toa$t#3108
 | Mail | cpastoast@protonmail.com
 
-## Donations 💸
+## Buy me a toast 💸
 In **XMR** (Monero) at `45uLX4k9zokN9xBuZQ5uw2UFQZcoGdwvm5pHMiiK4piRQAXWS5tcqTTGYAv9qBSmKXYKEkbjHQH9M4XoUsKuwFVNJm3N9JT`
