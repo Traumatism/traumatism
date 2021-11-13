@@ -23,6 +23,7 @@ class App:
             for _ in range(0x9)
         )
 
+
 if __name__ == "__main__":
     app = App()
 
@@ -30,4 +31,4 @@ if __name__ == "__main__":
 
 ```
 
-Inspired from https://gist.github.com/rexim/326dceb0b3c9e524b827724f90501ee3 !
+Inspired from https://gist.github.com/rexim/326dceb0b3c9e524b827724f90501ee3
