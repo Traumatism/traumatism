@@ -1,15 +1,18 @@
 ```py
-class App:
-    """ 
-    This app requires Python 3.9+ due 
-    to warlus operator usage.
-    """
+"""
+This app requires Python 3.8+
+due to warlus operator usage.
+"""
+
+
+class Truth(object):
+    """ Object for the truth """
     
     def __init__(self) -> None:
         pass
 
     @property
-    def truth_location(self) -> str:
+    def location(self) -> str:
         """ Get the truth location.
 
         Returns:
