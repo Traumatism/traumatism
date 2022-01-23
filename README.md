@@ -1,7 +1,14 @@
-```
-- French
-- 15 years old
-- Passionate about programming, informatics, hacking and electronics.
+```go
+type Toast struct {
+	name    string
+	age     int
+	discord string
+}
 
-Terminal p*rn lover 👾
+me := &Toast{
+	name:    "Victor",
+	age:     15,
+	discord: "toast#3108"
+}
+
 ```
