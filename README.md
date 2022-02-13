@@ -5,7 +5,7 @@ type Toast struct {
 }
 
 me := &Toast{
-	age:     15,
+	age:     12,
 	discord: "toast#3108"
 }
 
