@@ -1,3 +1,5 @@
+I ♥ [@bash0x0](https://github.com/bash0x0) & [@MonkeySkid](https://github.com/MonkeySkid)
+
 Contacts: 
  - `toast#3108` (Discord, suspended)
  - `aker#8475` (Discord, active)
