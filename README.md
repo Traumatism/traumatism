@@ -1,5 +1,3 @@
-I ♥ [@bash0x0](https://github.com/bash0x0) & [@MonkeySkid](https://github.com/MonkeySkid)
-
 Contacts: 
  - `aker#8475` (Discord)
  
