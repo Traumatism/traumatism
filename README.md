@@ -2,9 +2,9 @@
 
 My name is Victor (R), but you may call me vik :)
 
-On this GitHub page you will find all the little projects I worked on as a computer goony :3
+On this GitHub page you will find some of the little projects I worked on as a computer goony :3
 
-Discord: `@physicien`
+Discord: `physicien`
 
 PGP fingerprint (https://keys.openpgp.org/):
 ```
