@@ -1,16 +1,19 @@
-## Hi there 👋
+```
 
-<!--
-**Traumatism/Traumatism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+,-------------------------------,
+: $ gcc -o a.out program.c      :   Victor
+| $ ./a.out                     |
+| Hāloa :>                      |   Email @ OpenPGP keyserver:
+| Segmentation fault            |    674F BBCA 3E0A 842F 745B
+| $ _                           |    F59D 0BAE 136C AE97 07C8
+|-------------------------------|
+'----------------------------++-'
 
-Here are some ideas to get you started:
+   ,----------------------,
+  / @ .. .. .. .. .. .. ^^ \
+ /  ,. .. .. ----- .. .. .. \    ,'--,
+|'__________________________'|   \ \_,\
+|____________________________|    \|___|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+
