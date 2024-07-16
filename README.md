@@ -3,7 +3,7 @@
 ,-------------------------------,
 : $ gcc -o a.out program.c      :   Victor (R)
 | $ ./a.out                     |
-| Hāloa :>                      |   Email @ OpenPGP keyserver:
+| Hāloa :>                      |   Email @ OpenPGP keyserver:  (for serious stuff only)
 | Segmentation fault            |    5443 6516 15B7 CC8C C634
 | $ _                           |    2C7A E2A7 9493 5911 6066
 |                               |
@@ -12,7 +12,7 @@
    ,----------------------,
   / @ .. .. .. .. .. .. ^^ \
  /  ,. .. .. ----- .. .. .. \    ,'--,
-|'__________________________'|   \ \_,\ 
+|'__________________________'|   \ \_,\       Wanna talk? Here's my Discord: victork1ss
 |____________________________|    \|___|
 
 ```
