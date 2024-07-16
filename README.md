@@ -4,8 +4,8 @@
 : $ gcc -o a.out program.c      :   Victor (R)
 | $ ./a.out                     |
 | Hāloa :>                      |   Email @ OpenPGP keyserver:
-| Segmentation fault            |    674F BBCA 3E0A 842F 745B F59D 0BAE 136C AE97 07C8
-| $ _                           |
+| Segmentation fault            |    5443 6516 15B7 CC8C C634
+| $ _                           |    2C7A E2A7 9493 5911 6066
 |                               |
 |-------------------------------|   No ex, no next, for me
 '----------------------------++-'   ~ arch linux ~ is the best!
